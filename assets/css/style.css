@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(255, 209, 123);
+
+}
+.form{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.resumo{
+    height: 100vh;
+    text-align: center;
+    background-color: rgb(255, 209, 123);
+}
+
+span{
+    padding: 30px;
+}
